@@ -29,8 +29,6 @@ The user successfully logs in and is redirected to the correct account or dashbo
 
 ## 📍 Module – Register
 
-## 📍 Module – Register
-
 ### **Flow 1: Valid Registration Flow**
 The user enters all required information correctly, agrees to the policy, and successfully creates a new account.
 
