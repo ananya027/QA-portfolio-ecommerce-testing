@@ -33,7 +33,3 @@ This project highlights skills commonly expected from a manual tester, including
 - Ensuring coverage through traceability  
 - Presenting work in a clear and readable format  
 
-
-
-Ananya
-Manual Tester | QA Enthusiast
