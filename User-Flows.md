@@ -44,16 +44,10 @@ The user enters an improperly formatted email (e.g., "abc@", "user@com") and rec
 ### **Flow 5: Password and Confirm Password Mismatch Flow**
 The user enters a password and confirm password that do not match, and the system displays an appropriate error.
 
-### **Flow 6: Weak or Short Password Flow**
-The user enters a very short or weak password; if the application allows it, registration should still succeed.
-
-### **Flow 7: Incorrect Phone Number Format Flow**
-The user enters a phone number in an invalid format (letters or too few digits), prompting a validation error.
-
-### **Flow 8: Missing Privacy Policy Agreement Flow**
+### **Flow 6: Missing Privacy Policy Agreement Flow**
 The user attempts to register without checking the required privacy policy checkbox and the registration is not allowed.
 
-### **Flow 9: Optional Newsletter Subscription Flow**
+### **Flow 7: Optional Newsletter Subscription Flow**
 The user toggles the newsletter subscription option; registration should still succeed regardless of this selection.
 
 ---
