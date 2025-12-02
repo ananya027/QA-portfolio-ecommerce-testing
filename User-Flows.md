@@ -107,20 +107,20 @@ The user clicks a product from the search results page and is taken to the corre
 
 ## 📍 Module – Product Listing Page (PLP)
 
-### **Flow 1: PDP Load Flow**
-The user opens a product from the listing page and the product details load correctly (image, name, price, description).
+### **Flow 1: PLP Load Flow**
+The user opens a product category and the list of products loads successfully with basic information (image, name, price).
 
-### **Flow 2: Add to Cart Flow**
-The user clicks “Add to Cart” on the PDP and the product is successfully added to the cart.
+### **Flow 2: Open Product from PLP Flow**
+The user clicks on a product from the listing page and is redirected to the correct Product Details Page (PDP).
 
-### **Flow 3: Quantity Update Flow**
-The user changes the product quantity (e.g., 2, 3) and the updated quantity is reflected correctly.
+### **Flow 3: Add to Cart from PLP Flow**
+The user adds a product to the cart directly from the listing page.
 
-### **Flow 4: Product Image Preview Flow**
-The user clicks on additional product images or thumbnails (if available) and the preview updates correctly.
+### **Flow 4: Sorting Flow**
+The user selects a sorting option (e.g., price or name), and the products rearrange accordingly.
 
-### **Flow 5: Navigation Back to PLP Flow**
-The user clicks back or uses breadcrumbs to return to the listing page.
+### **Flow 5: No Results Flow**
+If a category has no products, a “No products found” message is displayed.
 
 ---
 
