@@ -29,6 +29,37 @@ The user successfully logs in and is redirected to the correct account or dashbo
 
 ## 📍 Module – Register
 
+## 📍 Module – Register
+
+### **Flow 1: Valid Registration Flow**
+The user enters all required information correctly, agrees to the policy, and successfully creates a new account.
+
+### **Flow 2: Registration with Existing Email**
+The user enters an email that is already registered in the system and receives an error message.
+
+### **Flow 3: Registration with Empty Mandatory Fields**
+The user attempts to register without filling one or more required fields and the system displays mandatory field validation errors.
+
+### **Flow 4: Email Format Validation Flow**
+The user enters an improperly formatted email (e.g., "abc@", "user@com") and receives an invalid email format message.
+
+### **Flow 5: Password and Confirm Password Mismatch Flow**
+The user enters a password and confirm password that do not match, and the system displays an appropriate error.
+
+### **Flow 6: Weak or Short Password Flow**
+The user enters a very short or weak password; if the application allows it, registration should still succeed.
+
+### **Flow 7: Incorrect Phone Number Format Flow**
+The user enters a phone number in an invalid format (letters or too few digits), prompting a validation error.
+
+### **Flow 8: Missing Privacy Policy Agreement Flow**
+The user attempts to register without checking the required privacy policy checkbox and the registration is not allowed.
+
+### **Flow 9: Optional Newsletter Subscription Flow**
+The user toggles the newsletter subscription option; registration should still succeed regardless of this selection.
+
+---
+
 ## 📍 Module – Homepage
 
 ## 📍 Module – Search
