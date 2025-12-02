@@ -35,6 +35,5 @@ This project highlights skills commonly expected from a manual tester, including
 
 
 
-✨ Author
 Ananya
 Manual Tester | QA Enthusiast
