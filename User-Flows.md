@@ -1,5 +1,3 @@
-User-FLows for the E-commerce Web Application
-
 This document contains high-level user flows for major modules of the e-commerce application.  
 Each flow represents a complete user action path and is used to derive test scenarios and test cases.
 
