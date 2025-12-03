@@ -88,10 +88,7 @@ The user enters symbols or special characters (e.g., “@#$%”) and the system 
 ### **Flow 6: Case-Insensitive Search Flow**
 The user searches using uppercase, lowercase, or mixed case and the search results remain consistent.
 
-### **Flow 7: Quick Search from Homepage Flow**
-The user enters a keyword directly from the homepage search bar and is redirected to the correct results page.
-
-### **Flow 8: Search Result Navigation Flow**
+### **Flow 7: Search Result Navigation Flow**
 The user clicks a product from the search results page and is taken to the correct Product Details Page.
 
 ---
