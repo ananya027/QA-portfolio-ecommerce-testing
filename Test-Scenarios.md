@@ -32,6 +32,15 @@ Each scenario describes a testable condition to verify core functionality across
 ### TS-RG-08: Verify successful redirection after completing registration.
 
 ---
+## 📍 Module – Homepage
+
+### TS-HP-01: Verify the homepage loads successfully with all major UI elements.
+### TS-HP-02: Verify header navigation links navigate to their correct pages.
+### TS-HP-03: Verify the search bar is visible, accessible, and accepts input.
+### TS-HP-04: Verify featured products load correctly and navigate to the Product Details Page when clicked.
+### TS-HP-05: Verify homepage banners/sliders redirect to the correct linked page or category.
+
+---
 
 ## 📍 Module – Search
 
