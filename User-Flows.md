@@ -52,25 +52,19 @@ The user toggles the newsletter subscription option; registration should still s
 ## 📍 Module – Homepage
 
 ### **Flow 1: Homepage Load Flow**
-The user opens the homepage and the page loads successfully with all major UI elements visible, including header, footer, banners, and featured products.
+The user opens the homepage and it loads successfully with all main UI elements visible.
 
 ### **Flow 2: Header Navigation Flow**
-The user clicks various header elements (Home, My Account, Wish List, Shopping Cart, Checkout) and is correctly navigated to the respective pages.
+The user clicks header menu options and is navigated to their correct pages.
 
-### **Flow 3: Search Bar Accessibility Flow**
-The user locates the search bar from the homepage and can begin a search action without issues.
+### **Flow 3: Search Bar Flow**
+The user accesses the search bar from the homepage and begins a search action.
 
-### **Flow 4: Featured Products Interaction Flow**
-The user views the featured products section and can click on any featured product to navigate to its Product Details Page.
+### **Flow 4: Featured Products Flow**
+The user clicks a featured product and is redirected to its Product Details Page.
 
-### **Flow 5: Banner/Slider Interaction Flow**
-The user views the homepage banners or sliders and clicking them redirects to the correct linked page or category.
-
-### **Flow 6: Footer Navigation Flow**
-The user interacts with footer links (About Us, Privacy Policy, Contact Us, Returns, etc.) and all links navigate correctly.
-
-### **Flow 8: Homepage Reload Flow**
-Reloading or refreshing the homepage does not break UI layout and all components load correctly.
+### **Flow 5: Banner/Slider Flow**
+The user interacts with homepage banners or sliders and is redirected to the correct linked page.
 
 ---
 
